@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.ownername = " *(🇾🇪𝒛𝒂𝒌𝒊⃝𝒂𝒍𝒎𝒏𝒕𝒄𝒎🇾🇪)* " //ur owner name
+global.ytname = "YT: *-اﻟﻋَﻗﻳَد.𝙼.ﻣِﺎﻣوَڹ🇾🇪ঌ٢³* " //ur yt chanel name
+global.socialm = "♡♡♡: *.زاڪﻲالمَنتقِم𓅓ঌ🇾🇪* " //ur github or insta name
+global.location = "♡, ♡, *(🇾🇪𝒛𝒂𝒌𝒊⃝𝒂𝒍𝒎𝒏𝒕𝒄𝒎🇾🇪)* " //ur location
 
 //bot bomdy 
 global.ownernomer = "201098906252" //ur number
 global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
+global.botname = '*(🇾🇪𝒛𝒂𝒌𝒊⃝𝒂𝒍𝒎𝒏𝒕𝒄𝒎🇾🇪)*' //ur bot name
+global.linkz = " *انضم الى مجموعتي على الواتساب أنشر فيها* ❛❜  https://chat.whatsapp.com/FkuW0UgS94JLsDDTLjFJM4" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.botscript = '*للتواصل معي http://Wa.me/+967773371350*' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "⍣-اﻟﻋَﻗﻳَد.𝙼.ﻣِﺎﻣوَڹ🇾🇪ঌ٢³⍣" //ur sticker watermark packname
 global.author = "⍣01098906252⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.wm = " *(🇾🇪𝒛𝒂𝒌𝒊⃝𝒂𝒍𝒎𝒏𝒕𝒄𝒎🇾🇪)*." //ur watermark
 
 // Other
 global.sessionName = 'session'
